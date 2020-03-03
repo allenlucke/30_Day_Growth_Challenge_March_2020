@@ -16,3 +16,6 @@ This is a personal changelog of my updates. Not everything is code. Note that th
 
 #### Monday, March 2nd
 - 💻- Code - https://github.com/allenlucke/weather-Forecaster
+
+#### Tuesday, March 3rd
+- 💻- Code - https://github.com/allenlucke/weather-Forecaster
