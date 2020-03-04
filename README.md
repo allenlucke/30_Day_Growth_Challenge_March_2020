@@ -19,3 +19,8 @@ This is a personal changelog of my updates. Not everything is code. Note that th
 
 #### Tuesday, March 3rd
 - 💻- Code - https://github.com/allenlucke/weather-Forecaster
+
+#### Wednesday, March 4th
+- 💻- Code - https://github.com/allenlucke/weather-Forecaster
+- 💻- Code - https://github.com/allenlucke/react-redux-typescript-docker-boilerplate
+
