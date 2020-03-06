@@ -26,3 +26,6 @@ This is a personal changelog of my updates. Not everything is code. Note that th
 
 #### Thursday, March 5th
 - 💻- Code - https://github.com/allenlucke/react-redux-typescript-docker-boilerplate
+
+#### Friday, March 6th
+- 💻- Code - https://github.com/allenlucke/react-redux-typescript-docker-boilerplate
