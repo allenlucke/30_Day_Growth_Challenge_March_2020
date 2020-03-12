@@ -8,7 +8,6 @@ This is a personal changelog of my updates. Not everything is code. Note that th
 - 📚- Reading
 
 ### Goals
-- 📚- Reading - Every Day
 - 💻- Code - Building or Learning
 
 ---
@@ -44,4 +43,7 @@ This is a personal changelog of my updates. Not everything is code. Note that th
 - 💻- Code - https://github.com/allenlucke/color-blocks-two
 
 #### Wednesday, March 11th
+- 💻- Code - https://github.com/allenlucke/color-blocks-two
+
+#### Thursday, March 12th
 - 💻- Code - https://github.com/allenlucke/color-blocks-two
