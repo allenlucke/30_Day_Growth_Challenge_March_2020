@@ -57,3 +57,6 @@ This is a personal changelog of my updates. Not everything is code. Note that th
 #### Sunday, March 15th
 - 💻- Code - https://github.com/allenlucke/color-blocks-two
 
+#### Monday, March 16th
+- 💻- Code - https://github.com/allenlucke/color-blocks-two
+- 💻- Code - https://github.com/allenlucke/react-redux-typescript-docker-boilerplate
