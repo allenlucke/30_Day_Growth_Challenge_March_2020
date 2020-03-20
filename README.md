@@ -69,3 +69,6 @@ This is a personal changelog of my updates. Not everything is code. Note that th
 
 #### Thursday, March 19th
 - 💻- Code - https://github.com/allenlucke/python_hello_world
+
+#### Friday, March 20th
+- 💻- Code - https://github.com/allenlucke/python_hello_world
