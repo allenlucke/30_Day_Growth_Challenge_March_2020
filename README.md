@@ -78,3 +78,6 @@ This is a personal changelog of my updates. Not everything is code. Note that th
 
 #### Sunday, March 22th
 - 💻- Code - https://github.com/allenlucke/python_hello_world
+
+#### Monday, March 23rd
+- 💻- Code - https://github.com/allenlucke/color-blocks-two
