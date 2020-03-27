@@ -90,3 +90,6 @@ This is a personal changelog of my updates. Not everything is code. Note that th
 
 #### Thursday, March 26th
 - 💻- Code - https://github.com/allenlucke/color-blocks-two
+
+#### Friday, March 27th
+- 💻- Code - https://github.com/allenlucke/color-blocks-two
